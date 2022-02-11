@@ -7,3 +7,8 @@ Developer: Cornel Cristea<br/>
 Tools used: Visual Studio Code<br/>
 Programming languages: HTML, CSS, JavaScript<br/>
 <br/>
+Update history:
+v3.0 - change background color when the prooduct is changed.
+v2.0 - change product from page when user clicked on product from footer.
+v1.0 - create web page.
+<br/>
